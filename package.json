@@ -1,0 +1,21 @@
+{
+  "name": "vidjot",
+  "version": "1.0.0",
+  "description": "An App to create Ideas based on Videos and Courses",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santosh Goteti",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.10",
+    "mongoose": "^5.0.0-rc0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.3"
+  }
+}
